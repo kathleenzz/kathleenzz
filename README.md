@@ -32,6 +32,6 @@
 
 [roblox]: https://www.roblox.com/users/2259131681/profile
 [spotify]: https://open.spotify.com/playlist/4L7E251CuYbKlV8vtncQV2?si=926c0c7e0cbd4d98
-[website]: https://kathleenzz.github.io/kathleenzapata/
+[website]: https://kathleenzz.github.io/personalWebsite/
 [instagram]: https://www.instagram.com/kathleaannn/
 [linkedin]: https://www.linkedin.com/in/kathleenzapata/
