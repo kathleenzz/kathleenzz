@@ -3,10 +3,10 @@
 
 ### i am a highschooler and an aspiring engineer 
 
-- checkout my works on my website[website] (currently under development).
+- checkout my works on my [website][website] (currently under development).
 - 2021 goals: master at JavaScript
 - learning as much as i can!  
-- fun fact: i love roblox! come play with me[roblox], or spare me some extra robux (i dont mind either).
+- fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux (i dont mind either).
 
 
 
