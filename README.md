@@ -3,12 +3,13 @@
 
 ### i am a highschooler and an aspiring engineer 
 
-- checkout my works on my [website][website] (currently under development).
-- 2021 goals: master at JavaScript
+- check out my works on my [website][website] (currently under development).
+- 2021 goals: master JavaScript
 - learning as much as i can!  
 - fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux (i dont mind either).
+- you can also check out my spotify [playlist][spotify] i listen to while i code
 
-
+<br>
 
 ### Connect with me:
 
@@ -30,6 +31,7 @@
 
 
 [roblox]: https://www.roblox.com/users/2259131681/profile
+[spotify]: https://open.spotify.com/playlist/4L7E251CuYbKlV8vtncQV2?si=926c0c7e0cbd4d98
 [website]: https://kathleenzz.github.io/kathleenzapata/
 [instagram]: https://www.instagram.com/kathleaannn/
 [linkedin]: https://www.linkedin.com/in/kathleenzapata/
