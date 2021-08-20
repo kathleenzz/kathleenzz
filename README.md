@@ -6,19 +6,19 @@
 <br />
 <br />
 
-  ~ check out my works on my [website][website] (currently under development).
+  `~ check out my works on my [website][website] (currently under development).`
   
 
-  ~ 2021 goals: master JavaScript
+  `~ 2021 goals: master JavaScript`
  
 
-  ~ learning as much as i can! 
+  `~ learning as much as i can!`
  
 
-  ~ fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux (i dont mind either <(￣︶￣)>).
+  `~ fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux  (i dont mind either <(￣︶￣)>).`
  
 
-  ~ you can also check out my spotify [playlist][spotify] i listen to while i code
+  `~ you can also check out my spotify [playlist][spotify] i listen to while i code`
 
 
 
