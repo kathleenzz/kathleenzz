@@ -3,11 +3,14 @@
 
 ### i am a highschooler and an aspiring engineer 
 
-- check out my works on my [website][website] (currently under development).
-- 2021 goals: master JavaScript
-- learning as much as i can!  
-- fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux (i dont mind either).
-- you can also check out my spotify [playlist][spotify] i listen to while i code
+
+<img align="left" width="44"  src="https://media.giphy.com/media/Mmh3uG0srGGqFm5Vmw/giphy.gif">
+
+ check out my works on my [website][website] (currently under development).
+ 2021 goals: master JavaScript
+  learning as much as i can!  
+ fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux (i dont mind either).
+ you can also check out my spotify [playlist][spotify] i listen to while i code
 
 <br>
 
