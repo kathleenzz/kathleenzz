@@ -1,22 +1,41 @@
 
-## hi! i am kathleen °˖✧◝(⁰▿⁰)◜✧˖°
-
-### i am a highschooler and an aspiring engineer 
+`hi! i am kathleen °˖✧◝(⁰▿⁰)◜✧˖°`
 
 
-<img align="left" width="400"  src="https://media.giphy.com/media/Mmh3uG0srGGqFm5Vmw/giphy.gif">
 
- <img align="left" width="45px" src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif"> check out my works on my [website][website] (currently under development).
+
+<body>
+<div style="position: block">
+<h2 style="text-align: left;"><em>i am a highschool student and an aspiring engineer</em></h2>
+<img align="right" width="500" src="https://media.giphy.com/media/Mmh3uG0srGGqFm5Vmw/giphy.gif">
+<br>
+  <p style="text-align: left; margin: 15px; font-size: 1.5em; letter-spacing: .01em">
+  &nbsp - &nbsp check out my works on my [website][website] (currently under development).
+ <br> 
+  &nbsp - &nbsp 2021 goals: master JavaScript
  <br>
- 2021 goals: master JavaScript
+  &nbsp - &nbsp learning as much as i can!  
  <br>
-  learning as much as i can!  
+ &nbsp - &nbsp fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux (i dont mind either).
  <br>
- fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux (i dont mind either).
- <br>
- you can also check out my spotify [playlist][spotify] i listen to while i code
+ &nbsp - &nbsp you can also check out my spotify [playlist][spotify] i listen to while i code
 
 <br>
+<br>
+<br>
+ </p>
+
+[roblox]: https://www.roblox.com/users/2259131681/profile
+[spotify]: https://open.spotify.com/playlist/4L7E251CuYbKlV8vtncQV2?si=926c0c7e0cbd4d98
+[website]: https://kathleenzz.github.io/personalWebsite/
+[instagram]: https://www.instagram.com/kathleaannn/
+[linkedin]: https://www.linkedin.com/in/kathleenzapata/
+
+<img width="55%" src="https://64.media.tumblr.com/0d092906b6a105c73b4df51374befadc/4629bd3bfc1ff56c-54/s1280x1920/35f0951d8ded1c3e762cd1c6cb471b7fd965fb34.jpg">
+</div>
+
+
+<div style="position: block">
 
 ### Connect with me:
 
@@ -42,3 +61,6 @@
 [website]: https://kathleenzz.github.io/personalWebsite/
 [instagram]: https://www.instagram.com/kathleaannn/
 [linkedin]: https://www.linkedin.com/in/kathleenzapata/
+
+</div>
+</body>
