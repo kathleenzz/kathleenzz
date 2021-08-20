@@ -3,6 +3,9 @@
 <h2 style="text-align: left;"><em>i am a highschool student and an aspiring engineer</em></h2>
 <img align="right"  width="40%" src="https://media.giphy.com/media/Mmh3uG0srGGqFm5Vmw/giphy.gif">
 
+<br />
+<br />
+
   ~ check out my works on my [website][website] (currently under development).
   
 
@@ -25,8 +28,6 @@
 [instagram]: https://www.instagram.com/kathleaannn/
 [linkedin]: https://www.linkedin.com/in/kathleenzapata/
 
-<br />
-<br />
 <br />
 <br />
 <br />
