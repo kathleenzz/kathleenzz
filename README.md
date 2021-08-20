@@ -8,6 +8,8 @@
 <h2 style="text-align: left;"><em>i am a highschool student and an aspiring engineer</em></h2>
 <img align="right" width="40%" src="https://media.giphy.com/media/Mmh3uG0srGGqFm5Vmw/giphy.gif">
 <br>
+<br>
+<br>
   - check out my works on my [website][website] (currently under development).
  <br> 
   - 2021 goals: master JavaScript
@@ -27,8 +29,11 @@
 [instagram]: https://www.instagram.com/kathleaannn/
 [linkedin]: https://www.linkedin.com/in/kathleenzapata/
 
+<br>
+<br>
+<br>
 
-<img width="55%" src="https://64.media.tumblr.com/0d092906b6a105c73b4df51374befadc/4629bd3bfc1ff56c-54/s1280x1920/35f0951d8ded1c3e762cd1c6cb471b7fd965fb34.jpg">
+<img width="55%" src="https://media.giphy.com/media/NJtbzqX7QlRzW/giphy.gif">
 
 
 
