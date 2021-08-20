@@ -7,18 +7,18 @@
 <body>
 <div style="position: block">
 <h2 style="text-align: left;"><em>i am a highschool student and an aspiring engineer</em></h2>
-<img align="right" width="500" src="https://media.giphy.com/media/Mmh3uG0srGGqFm5Vmw/giphy.gif">
+<img align="right" width="200" src="https://media.giphy.com/media/Mmh3uG0srGGqFm5Vmw/giphy.gif">
 <br>
-  <p style="text-align: left; margin: 15px; font-size: 1.5em; letter-spacing: .01em">
-  &nbsp - &nbsp check out my works on my [website][website] (currently under development).
+  <p style="text-align: left; margin: 15px; font-size: 1.5em; letter-spacing: .01em"> 
+  `- check out my works on my [website][website] (currently under development). `
  <br> 
-  &nbsp - &nbsp 2021 goals: master JavaScript
+   ` 2021 goals: master JavaScript`
  <br>
-  &nbsp - &nbsp learning as much as i can!  
+   ` learning as much as i can! ` 
  <br>
- &nbsp - &nbsp fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux (i dont mind either).
+   ` fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux (i dont mind either). `
  <br>
- &nbsp - &nbsp you can also check out my spotify [playlist][spotify] i listen to while i code
+   ` you can also check out my spotify [playlist][spotify] i listen to while i code `
 
 <br>
 <br>
