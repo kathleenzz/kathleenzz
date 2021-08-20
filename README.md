@@ -8,16 +8,19 @@ hi! i am kathleen °˖✧◝(⁰▿⁰)◜✧˖°
 <h2 style="text-align: left;"><em>i am a highschool student and an aspiring engineer</em></h2>
 <img align="right" width="40%" src="https://media.giphy.com/media/Mmh3uG0srGGqFm5Vmw/giphy.gif">
 
-  ~check out my works on my [website][website] (currently under development).
+  ~ check out my works on my [website][website] (currently under development).
   
-  2021 goals: master JavaScript
- 
-  learning as much as i can! 
- 
-  fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux (i dont mind either).
- 
-  you can also check out my spotify [playlist][spotify] i listen to while i code
 
+  ~ 2021 goals: master JavaScript
+ 
+
+  ~ learning as much as i can! 
+ 
+
+  ~ fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux (i dont mind either <(￣︶￣)>).
+ 
+ 
+  ~ you can also check out my spotify [playlist][spotify] i listen to while i code
 
 
 
