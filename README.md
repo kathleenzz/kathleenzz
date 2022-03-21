@@ -9,10 +9,10 @@
   ~ check out my works on my [website][website] (currently under development).
   
 
-  ~ 2021 goals: master JavaScript
+  ~ 2022 goals: finish my personal website LOLOLOL
  
 
-  ~ learning as much as i can!
+  ~ learning as much as I can! currently having a game development phase with unity and roblox studios
  
 
   ~ fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux  (i dont mind either <(￣︶￣)>).
