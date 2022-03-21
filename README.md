@@ -3,24 +3,26 @@
 <h2 style="text-align: left;"><em>i am a highschool student and an aspiring engineer</em></h2>
 <img align="right"  width="40%" src="https://media.giphy.com/media/Mmh3uG0srGGqFm5Vmw/giphy.gif">
 
-<br />
-<br />
+  <!-- ~ check out my works on my [website][website] (currently under development).  -->
 
-  ~ check out my works on my [website][website] (currently under development). 
-  
+  ~ 2022 goals: actually finish my personal website LOLOLOL
 
-  ~ 2022 goals: finish my personal website LOLOLOL
+
+  ~ currently interested in game development using unity and roblox studios
  
+
+  ~ I love coding as much as I do figure skating! you can either find me on my computer or at the rink (I don't even have time for school sometimes lol)
+
+
+  ~ fun fact: I love roblox! come play with [me][roblox], or spare me some extra robux  (i dont mind either <(￣︶￣)>).
+
+
+  ~ you can also check out my spotify [playlist][spotify] I listen to while I code
+
 
   ~ I loooovee hackathons! here's my [devpost][devpost] hehehe lets team up soon?!
 
-  ~ learning as much as I can! currently having a game development phase with unity and roblox studios
- 
 
-  ~ fun fact: i love roblox! come play with [me][roblox], or spare me some extra robux  (i dont mind either <(￣︶￣)>).
- 
-
-  ~ you can also check out my spotify [playlist][spotify] i listen to while i code
 
 
 
