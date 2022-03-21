@@ -6,11 +6,13 @@
 <br />
 <br />
 
-  ~ check out my works on my [website][website] (currently under development).
+  ~ check out my works on my [website][website] (currently under development). 
   
 
   ~ 2022 goals: finish my personal website LOLOLOL
  
+
+  ~ I loooovee hackathons! here's my [devpost][devpost] hehehe lets team up soon?!
 
   ~ learning as much as I can! currently having a game development phase with unity and roblox studios
  
@@ -30,8 +32,7 @@
 
 <br />
 <br />
-<br />
-<br />
+
 
 <img align="left" width="55%" src="https://media0.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif?cid=790b761179e7290ba8bbf132d080e7e3f2223267837e23f8&rid=giphy.gif&ct=g">
 
@@ -55,7 +56,7 @@
 <img align="right" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 
-
+[devpost]: https://devpost.com/kathleenzz?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 [roblox]: https://www.roblox.com/users/2259131681/profile
 [spotify]: https://open.spotify.com/playlist/4L7E251CuYbKlV8vtncQV2?si=926c0c7e0cbd4d98
 [website]: https://kathleenzz.github.io/personalWebsite/
