@@ -5,13 +5,10 @@
 
   <!-- ~ check out my works on my [website][website] (currently under development).  -->
 
-  ~ 2022 goals: actually finish my personal website LOLOLOL
-
-
-  ~ currently interested in game development using unity and roblox studios
+  ~ 2022 goals: actually upload all my projects up
  
 
-  ~ I love coding as much as I do figure skating! you can either find me on my computer or at the rink (I don't even have time for school sometimes lol)
+<!--   ~ I love coding as much as I do figure skating! you can either find me on my computer or at the rink (I don't even have time for school sometimes lol) -->
 
 
   ~ fun fact: I love roblox! come play with [me][roblox], or spare me some extra robux  (i dont mind either <(￣︶￣)>).
