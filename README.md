@@ -5,7 +5,7 @@
 
   <!-- ~ check out my works on my [website][website] (currently under development).  -->
 
-  ~ 2022 goals: actually upload all my projects up
+  ~ 2022 goals: actually upload all my projects up and update my github lol
  
 
 <!--   ~ I love coding as much as I do figure skating! you can either find me on my computer or at the rink (I don't even have time for school sometimes lol) -->
