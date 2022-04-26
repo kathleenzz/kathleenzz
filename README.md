@@ -10,7 +10,7 @@
 
 <!--   ~ I love coding as much as I do figure skating! you can either find me on my computer or at the rink (I don't even have time for school sometimes lol) -->
 
-  ~ Currently doing game development with unity and roblox studios ! Looking into biotech as well :)) 
+  ~ Currently working on some games with unity and roblox studios ! Looking into biotech as well :)) 
   
 
   ~ fun fact: I love roblox! come play with [me][roblox], or spare me some extra robux  (i dont mind either <(￣︶￣)>).
