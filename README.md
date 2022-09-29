@@ -1,6 +1,6 @@
 
 `hi! i am kathleen °˖✧◝(⁰▿⁰)◜✧˖°`
-<h2 style="text-align: left;"><em>i am a highschool student and an aspiring engineer</em></h2>
+<h2 style="text-align: left;"><em>i am a highschool student in my junior year</em></h2>
 <img align="right"  width="40%" src="https://media.giphy.com/media/Mmh3uG0srGGqFm5Vmw/giphy.gif">
 
   <!-- ~ check out my works on my [website][website] (currently under development).  -->
@@ -64,7 +64,7 @@
 [devpost]: https://devpost.com/kathleenzz?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 [roblox]: https://www.roblox.com/users/2259131681/profile
 [spotify]: https://open.spotify.com/playlist/4L7E251CuYbKlV8vtncQV2?si=926c0c7e0cbd4d98
-[website]: https://kathleenzz.github.io/personalWebsite/
+[website]: https://en.wikipedia.org/wiki/Lady_Gaga
 [instagram]: https://www.instagram.com/kathleaannn/
 [linkedin]: https://www.linkedin.com/in/kathleenzapata/
 
